@@ -31,7 +31,7 @@ class ExerciseActivity : AppCompatActivity(), TextToSpeech.OnInitListener {
     private var currentExercisePosition = -1
 
     private val exerciseTimerDuration : Long = 31
-    private val restTimerDuration : Long = 1
+    private val restTimerDuration : Long = 11
 
     private var tts : TextToSpeech? = null
     private var player : MediaPlayer? = null
