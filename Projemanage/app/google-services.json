@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "937980444374",
+    "project_id": "projemanage-ce065",
+    "storage_bucket": "projemanage-ce065.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937980444374:android:face72609dde6ad74c1377",
+        "android_client_info": {
+          "package_name": "com.birdshoe.projemanage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937980444374-5lkt168i902ss4rr0735ka63v0q3ohma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVHFa9fTWQNx4lWME648McG5pd6hkKUzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937980444374-5lkt168i902ss4rr0735ka63v0q3ohma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
